@@ -1,0 +1,3 @@
+/Users/aidenpratt/documents/APMLP Final 6010/CS6010-FinalProject-APMLP/xcode/CMakeFiles/FinalProject_AP_MLP.dir
+/Users/aidenpratt/documents/APMLP Final 6010/CS6010-FinalProject-APMLP/xcode/CMakeFiles/ALL_BUILD.dir
+/Users/aidenpratt/documents/APMLP Final 6010/CS6010-FinalProject-APMLP/xcode/CMakeFiles/ZERO_CHECK.dir
